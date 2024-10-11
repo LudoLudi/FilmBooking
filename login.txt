@@ -1,0 +1,4 @@
+farish_a   to login as admin
+farish_m   to login as manager
+farish_c   to login as customer
+for all of these password = 1 
